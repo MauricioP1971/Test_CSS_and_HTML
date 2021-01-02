@@ -7,13 +7,13 @@ body h1 {
 }
 
 p {
-  color: green;
-  font-size: 40px;
+  color: grey;
+  font-size: 25px;
   padding: 4px;
 }
 
 ol {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 img {
@@ -26,6 +26,7 @@ img {
     background-color: lightblue;
     padding: 16px 36px;
     border-radius: 50px;
+    margin-top: 5px;
     color: blue;
 }
 
