@@ -21,10 +21,19 @@ img {
   width: 400px;
 }
 
-.btn-primary {
+.btn-primary-1 {
     display: inline-block;
-    background-color: #1EDD88;
+    background-color: lightblue;
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: blue;
+}
+
+.btn-primary-2 {
+    display: inline-block;
+    background-color: grey;
     padding: 16px 36px;
     border-radius: 50px;
     color: white;
 }
+
