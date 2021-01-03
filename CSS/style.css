@@ -1,5 +1,6 @@
 @import url("components/container.css")
 @import url("components/card.css")
+@import url("components/banner.css")
 
 body h1 {
   color: red;
@@ -38,3 +39,6 @@ img {
     color: white;
 }
 
+#banner {
+  background-image: url("images/PICT0419_888.JPG");
+}
