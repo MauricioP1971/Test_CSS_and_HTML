@@ -5,10 +5,13 @@
 }
 
 .banner h1 {
-  color: grey;
+  color: white;
   background-color: none;
+  font-size: 50px;
+  margin: 0;
 }
 
 .banner p {
-  color: black;
+  color: red;
+  margin: 0;
 }
