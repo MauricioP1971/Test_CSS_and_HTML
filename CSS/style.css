@@ -3,10 +3,10 @@
 @import url("components/container.css");
 @import url("components/card.css");
 @import url(components/banner.css);
+@import url(components/button.css);
 
 body h1 {
   color: black;
-  /*background-color: blue;*/
 }
 
 p {
@@ -28,21 +28,3 @@ a {
   text-decoration: none;
 }
 
-.btn-primary-1 {
-    display: inline-block;
-    background-color: lightblue;
-    padding: 16px 36px;
-    border-radius: 50px;
-    margin-top: 5px;
-    color: blue;
-    font-family: 'Heebo', sans-serif;
-}
-
-.btn-primary-2 {
-    display: inline-block;
-    background-color: grey;
-    padding: 16px 36px;
-    border-radius: 50px;
-    color: white;
-    font-family: 'Noto Sans JP', sans-serif;
-}
