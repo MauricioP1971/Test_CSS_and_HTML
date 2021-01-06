@@ -28,3 +28,10 @@ a {
   text-decoration: none;
 }
 
+.text-center {
+  text-align: center;
+}
+
+.container-bottom {
+  background-size: cover;
+}
