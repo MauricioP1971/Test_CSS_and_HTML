@@ -1,3 +1,12 @@
 .card img {
   width: 250px;
 }
+
+.card {
+  border: 1px solid rgb(230,230,230);
+  width: 300px;
+  padding: 20px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+}
