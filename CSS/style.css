@@ -4,6 +4,7 @@
 @import url("components/card.css");
 @import url(components/banner.css);
 @import url(components/button.css);
+@import url(components/container_bottom.css);
 
 body h1 {
   color: black;
