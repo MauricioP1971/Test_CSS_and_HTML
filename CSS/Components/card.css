@@ -10,3 +10,11 @@
   box-shadow: 0 0 5px rgb(230,230,230);
   text-align: center;
 }
+
+.card p {
+  opacity: .5;
+}
+
+.cards {
+  display: flex;
+}
