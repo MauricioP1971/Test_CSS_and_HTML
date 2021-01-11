@@ -8,6 +8,7 @@
 @import url(components/container_bottom.css);
 @import url(components/footer.css);
 @import url(components/carousel.css);
+@import url(components/container_new.css);
 
 body h1 {
   color: black;
